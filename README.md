@@ -1,16 +1,16 @@
-💰 BNBT Donation Smart Contract
+# 💰 BNBT Donation Smart Contract
 
 A simple and transparent donation smart contract built with Solidity, deployed on the Binance Smart Chain Testnet.
 
 🔗 View on BscScan:
 https://testnet.bscscan.com/address/0xdb2bfb01d772ea7195022f35678f03ace731a9c2
 
-🚀 Overview
+## 🚀 Overview
 
 This smart contract allows users to donate BNBT (Binance Testnet BNB) to a specific wallet address in a secure and verifiable way.
 All donations are recorded on-chain, ensuring transparency and immutability.
 
-⚙️ Features
+## ⚙️ Features
 
 💵 Accepts BNBT donations directly on-chain
 
@@ -22,7 +22,7 @@ All donations are recorded on-chain, ensuring transparency and immutability.
 
 🧠 Simple and lightweight Solidity codebase
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 Language: Solidity
 
@@ -32,7 +32,7 @@ IDE: Remix or Hardhat
 
 Compiler Version: ^0.8.x
 
-🧪 How to Test
+## 🧪 How to Test
 
 Go to Remix IDE
 
